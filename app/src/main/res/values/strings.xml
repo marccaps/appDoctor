@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">App Doctor</string>
+
+    <!--- Missatges d'error -->
+
+
+    <!--- Missatges d'avís -->
+
+    <string name="no_implementat"> Encara no està implementat </string>
+    <string name="play"> Play </string>
+    <string name="streaming_comença"> Està començant el streaming </string>
+
+    <!--- Missatges dins de l'aplicació -->
+
+    <string name="wifi_on"> El Wifi està activat </string>
+    <string name="wifi_off"> El Wifi està desactivat </string>
+    <string name="activa_wifi"> Connectat a una xarxa Wifi </string>
+    <string name="desactiva_wifi"> Desconectat de la xarxa Wifi </string>
+    <string name="no_connexions_peer"> No hi ha cap Peer </string>
+    <string name="començar_cerca"> La cerca de dispositius ha començat </string>
+    <string name="error_cerca"> Hi ha un error en la cerca </string>
+    <string name="dispositiu_desconectat"> El dispositiu està desconectat </string>
+    <string name="gps_continue">Activa el GPS per continuar</string>
+    <string name="obre_gps_opcions">Canvia-ho a la configuració de la geolocalització</string>
+    <string name="Cancel">Cancel·la</string>
+    <string name="xarxa_gps_descativada">El GPS està desactivat</string>
+
+</resources>
